@@ -29,6 +29,9 @@ int main() {
 	cout << "ptr2 adress : " << &ptr2 << endl;
 
 
+	//deneme
+
+
 	
 
 
