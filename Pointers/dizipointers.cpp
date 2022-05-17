@@ -1,4 +1,5 @@
 //Dizileri Pointer olarak kullanarak islem yapma
+//Dizilerin ilk terimi dizinin adresini tutar yani dizinin adresiyle dizinin ilk teriminin adresi aynidir.
 
 #include <iostream>
 using namespace std;
